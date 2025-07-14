@@ -1,0 +1,11 @@
+feature,importance
+NumOfProducts,0.43706125
+Age,0.20266376
+IsActiveMember,0.17261386
+Geography_encoded,0.06269662
+Gender_encoded,0.053979687
+Balance,0.038847078
+HasCrCard,0.011094981
+CreditScore,0.0075440397
+Tenure,0.0068250946
+EstimatedSalary,0.0066736555
